@@ -4,6 +4,12 @@ A fun and interactive **Memory Card Game** built with React and Tailwind CSS. Th
 
 ---
 
+## Demo
+
+Try the live project here: [Memory Card Game Live](https://memory-card-game-phi-olive.vercel.app/)
+
+---
+
 ## Features
 
 - Selectable grid sizes: 2x2, 4x4, 6x6, 8x8, 10x10
